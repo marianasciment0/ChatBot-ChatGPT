@@ -14,7 +14,7 @@ Para executar este projeto, você precisará clonar este repositório.
   # Clone este repositório
   git clone https://github.com/marianasciment0/ChatBot-ChatGPT
 ```
-Agora você precisará adicionar a sua API no código javascript.
+Adicionar a sua API no código javascript.
 ```sh
   # Substitua o trecho CHAVE-API pela sua API do chat GPT
   const apiKey = "CHAVE-API"
