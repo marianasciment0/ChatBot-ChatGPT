@@ -16,7 +16,7 @@ Para executar este projeto, você precisará clonar este repositório.
 ```
 Adicionar a sua API no código javascript.
 ```sh
-  # Substitua o trecho CHAVE-API pela sua API do chat GPT
+  # Substitua o trecho CHAVE-API pela sua API do chatGpt
   const apiKey = "CHAVE-API"
 ```
 Você pode restringir o chat para que ele identifique palavras nas frases e, assim, possa responder apenas às perguntas que contenham essas palavras.
